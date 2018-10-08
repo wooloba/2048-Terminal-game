@@ -1,4 +1,4 @@
 # 2048-Terminal-game
 
 
-![](2048-Game Play.gif)
+![](2048-Game play.gif)
