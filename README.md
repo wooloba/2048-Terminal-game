@@ -9,7 +9,7 @@ Make sure you have getch installed. To install getch, you can run following comm
 run ```python3 2048.py``` . 
   
 !!!!PLAY!!!!  
-Use ```W```,```A```,```S```,```S``` to control the game.  
+Use ```W```,```A```,```S```,```D``` to control the game.  
 Use ```p``` to quit game.  
   
   
